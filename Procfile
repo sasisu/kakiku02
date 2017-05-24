@@ -1,1 +1,1 @@
-web: bundle exec ruby webrick.rb -p $PORT
+web: bundle exec ruby webrick.rb
